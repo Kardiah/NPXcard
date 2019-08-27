@@ -1,6 +1,6 @@
 {
   "name": "npxkardiah",
-  "version": "1.0.2",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/Kardiah/NPXcard#readme",
   "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.3",
     "prettyjson": "^1.2.1"
   }
 }
